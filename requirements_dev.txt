@@ -1,0 +1,5 @@
+ruff==0.4.*
+mypy==1.10.*
+sqlalchemy[mypy]==2.0.*	# install the mypy plugin
+pytest==8.*
+pytest-cov==5.*
